@@ -2,7 +2,7 @@
 -- Purely decorative miniature city models that sit on the ground and fall like sand.
 
 local modname = minetest.get_current_modname()
-local sounds = minetest.get_modpath("default") and default.node_sound_stone_defaults() or nil
+local sounds = (minetest.get_modpath("default") and default and default.node_sound_stone_defaults) and default.node_sound_stone_defaults() or nil
 
 local models = {
     {
