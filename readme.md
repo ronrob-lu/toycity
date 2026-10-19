@@ -12,7 +12,7 @@ Whether you are designing a table-top diorama, building a miniature toy kingdom,
 
 ## ✨ Features
 
-- 🏙️ **41 Unique Miniature Models**: Includes residential buildings, modern skyscrapers, low-detail towers, awnings, overhangs, and parasols.
+- 🏙️ **118 Unique Miniature Models**: Includes residential buildings, modern skyscrapers, low-detail towers, industrial complexes, suburban houses, fences, trees, awnings, overhangs, and parasols.
 - 📐 **1-Block Footprint Precision**: Every model is carefully proportioned to fit within a single node block (1×1 width & length) and rests directly on the ground.
 - ⏳ **Falling Physics (Sand-Like)**: Place buildings anywhere and watch them drop naturally! Build gravity-driven dioramas or stacked mini-cities.
 - 🔄 **360° Directional Rotation**: Supports `facedir` rotation so you can align street fronts and facades seamlessly in all four directions.
@@ -28,6 +28,16 @@ Whether you are designing a table-top diorama, building a miniature toy kingdom,
 
 ### 🏬 Low-Detail Buildings
 - **Low Detail Buildings A – N & Wide Variants**: Streamlined miniature buildings for distant skylines, suburban neighborhoods, or lightweight dioramas.
+
+### 🏭 Industrial Structures
+- **Industrial Buildings A – T**: Factories, warehouses, processing plants, and industrial complexes.
+- **Chimneys & Tanks**: Basic, small, medium, and large chimneys, plus storage tanks and water towers.
+- **Infrastructure & Green Energy**: Shipping containers, solar panels (landscape, portrait, flat, and groups), and windmills.
+
+### 🏡 Suburban Neighborhoods & Props
+- **Suburban House Types A – U**: Single-family houses and residential suburban homes.
+- **Fences & Driveways**: Various fence configurations (1x2 to 3x3, low fences) and driveways.
+- **Paths, Trees & Planters**: Walkways, messy stone paths, planters, and miniature trees.
 
 ### ⛱️ Architectural Details
 - **Awnings & Overhangs**: Decorate shopfronts and building entrances.
